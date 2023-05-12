@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  background-color: antiquewhite;
+  color: #000;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.links a {
+  font-size: 1.2rem;
+  margin: 0.5rem;
+  text-decoration: none;
+}
+
+.about,
+.section {
+  padding: 1rem;
+}
+.about h1,
+.section h1 {
+  text-align: center;
+}
